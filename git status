@@ -1,0 +1,11 @@
+[33mcommit 9aa309d98fbb38b1d28d57c1048a65a318ce3cd6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: juxel <yspostbox@yahoo.com>
+Date:   Mon Dec 2 19:41:13 2019 +0100
+
+    added logout clsaa/file
+
+[33mcommit e48a8ae95e03a874da2a9b665aaf0b65572576f4[m
+Author: juxel <yspostbox@yahoo.com>
+Date:   Mon Dec 2 19:25:42 2019 +0100
+
+    added login class
