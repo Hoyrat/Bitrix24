@@ -13,7 +13,6 @@ public void hi(){
     }
   //this code is written on github and has been seen on intelij
 
-    }
 
    //bu satir GitHubtan yazildi
      public String hello(){
